@@ -1,0 +1,15 @@
+[submodule "yuanwei"]
+	path = yuanwei
+	url = https://github.com/SIRIUS-Teams-sirius/yuanwei.git
+[submodule "zhangshiyi"]
+	path = zhangshiyi
+	url = https://github.com/SIRIUS-Teams-sirius/zhangshiyi.git
+[submodule "yangqunsheng"]
+	path = yangqunsheng
+	url = https://github.com/SIRIUS-Teams-sirius/yangqunsheng.git
+[submodule "wangshanrui"]
+	path = wangshanrui
+	url = https://github.com/SIRIUS-Teams-sirius/wangshanrui.git
+[submodule "chencan"]
+	path = chencan
+	url = https://github.com/SIRIUS-Teams-sirius/chencan.git
